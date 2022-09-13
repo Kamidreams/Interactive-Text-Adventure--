@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c54194a6c471654f94c68c9e415cbd6, type: 3}
   m_Name: Introduction
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: "You look around at your surroundings, you hear noises coming from one
+    doorway, up the stairs is a hole that appears to be endless, and in the other
+    room is a yellow slide. \n\nWhere do you go?\r\n\r\n1) Go towards the noise\r\n2)
+    Jump down the \u201Cendless\u201D hole\r\n3) Slide down the yellow slide\r"
   nextStates:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: cd975c6b562633946b12a38618394a5b, type: 2}
+  - {fileID: 11400000, guid: 6ad70d7c250745c4db3db645fd6b3f2a, type: 2}
+  - {fileID: 11400000, guid: 65d466b741f3744409d9783953870a64, type: 2}

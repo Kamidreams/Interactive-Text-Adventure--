@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c54194a6c471654f94c68c9e415cbd6, type: 3}
+  m_Name: Go towards the noise
+  m_EditorClassIdentifier: 
+  storyText: "You go towards the noise entering a dark room. As you approach closer
+    to the noise, you see a figure. They ask you to find a key. \n\nWhat  do you
+    do?\r\n\n1.  Go look for the key\n2.  Walk Back from where you came\n3.  Walk
+    into the dark hallway behind them"
+  nextStates:
+  - {fileID: 11400000, guid: ad52610054c88bd4cbc4320c559d5412, type: 2}
+  - {fileID: 11400000, guid: 398702f320bb12e46977e64d032583c3, type: 2}
+  - {fileID: 11400000, guid: 3bc46ea0bf79b5846a8667ecdb4f798c, type: 2}

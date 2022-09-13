@@ -522,8 +522,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "You go towards the noise entering a dark room. As you approach closer
     to the noise, you see a figure. They ask you to find a key. \n\nWhat  do you
-    do?\r\n\n- Go look for the key\n- Walk Back from where you came\n- Walk into
-    the dark hallway behind them"
+    do?\r\n\n1.  Go look for the key\n2.  Walk Back from where you came\n3.  Walk
+    into the dark hallway behind them"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
