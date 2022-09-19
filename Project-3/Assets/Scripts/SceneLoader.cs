@@ -20,6 +20,12 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+
+ public void Choice4()
+    {
+        SceneManager.LoadScene(2);
+    }
+
     public void Choice5()
     {
         SceneManager.LoadScene(4);
@@ -73,6 +79,45 @@ public void Choice11()
 public void Choice12()
     {
         SceneManager.LoadScene(14);
+    }
+
+public void Choice13()
+    {
+        SceneManager.LoadScene(15);
+    }
+
+public void Choice14()
+    {
+        SceneManager.LoadScene(16);
+    }
+public void Ending5()
+    {
+        SceneManager.LoadScene(17);
+    }
+
+    public void Ending8()
+    {
+        SceneManager.LoadScene(18);
+    }
+
+    public void Ending9()
+    {
+        SceneManager.LoadScene(19);
+    }
+
+    public void Ending12()
+    {
+        SceneManager.LoadScene(20);
+    }
+    
+    public void Ending15()
+    {
+        SceneManager.LoadScene(21);
+    }
+
+ public void GoodEnding()
+    {
+        SceneManager.LoadScene(22);
     }
 
     public void QuitGame()
