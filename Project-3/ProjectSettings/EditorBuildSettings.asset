@@ -35,7 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Choice 2 Story/Choice 9.unity
     guid: 99e9c61a793248d4aa413318648d75b3
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Choice 2 Story/Choice 15.unity
     guid: 25e6b4546ef7de141badfdb7acc0250d
   - enabled: 1
