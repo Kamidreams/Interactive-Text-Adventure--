@@ -578,7 +578,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 955045959}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1555613551812451347}
+        m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
+        m_MethodName: LoadStartScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &955045959
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1058,3 +1070,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 615de136cf00638459fb0449102449b0, type: 3}
+--- !u!114 &1555613551812451347 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3302150468552207327, guid: 615de136cf00638459fb0449102449b0, type: 3}
+  m_PrefabInstance: {fileID: 1555613551812451346}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d081c5c034dbfc040a0c4725e48bd2a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
